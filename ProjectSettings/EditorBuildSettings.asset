@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Ballshooter_Level2_EvaR.unity
     guid: 3314d53fa22aeb74f8200c6239dae48c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Ballshooter_Level3_EvaR.unity
     guid: 0710650d55f72bb45ac4528ee9471680
   - enabled: 1
